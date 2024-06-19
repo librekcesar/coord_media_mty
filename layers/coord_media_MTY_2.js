@@ -1,0 +1,1 @@
+var json_coord_media_MTY_2 = {"type":"FeatureCollection","name":"coord_media_MTY_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MEAN_X":-100.29182,"MEAN_Y":25.70103,"estacion":"Centroide_MTY"},"geometry":{"type":"Point","coordinates":[-100.291819551620563,25.701029674950465]}}]}
